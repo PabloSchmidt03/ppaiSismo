@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pablo\\source\\repos\\PPAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|C:\\Users\\pablo\\source\\repos\\PPAI\\ppai\\gestorregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|c:\\users\\pablo\\source\\repos\\ppai\\ppai\\gestorregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|solutionrelative:ppai\\gestorregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|C:\\Users\\pablo\\source\\repos\\PPAI\\ppai\\pantallagestionregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|solutionrelative:ppai\\pantallagestionregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|C:\\Users\\pablo\\source\\repos\\PPAI\\ppai\\eventosismico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|C:\\Users\\pablo\\source\\repos\\PPAI\\ppai\\pantallagestionregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|solutionrelative:ppai\\pantallagestionregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|C:\\Users\\pablo\\source\\repos\\PPAI\\ppai\\pantallagestionregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|solutionrelative:ppai\\pantallagestionregistroresultadorevisionmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA3656C7-A6E9-40F6-A113-710DF64B0BFA}|PPAI\\PPAI.csproj|C:\\Users\\pablo\\source\\repos\\PPAI\\ppai\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +43,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T18:35:10.463Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PantallaGestionRegistroResultadoRevisionManual.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\PPAI\\PPAI\\PantallaGestionRegistroResultadoRevisionManual.cs",
               "RelativeDocumentMoniker": "PPAI\\PantallaGestionRegistroResultadoRevisionManual.cs",
@@ -60,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PantallaGestionRegistroResultadoRevisionManual.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\PPAI\\PPAI\\PantallaGestionRegistroResultadoRevisionManual.cs",
               "RelativeDocumentMoniker": "PPAI\\PantallaGestionRegistroResultadoRevisionManual.cs",
@@ -73,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EventoSismico.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\PPAI\\PPAI\\EventoSismico.cs",
               "RelativeDocumentMoniker": "PPAI\\EventoSismico.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "PPAI\\EventoSismico.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAhwD8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:53:37.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:53:37.712Z"
             },
             {
               "$type": "Document",
@@ -92,7 +90,7 @@
               "RelativeDocumentMoniker": "PPAI\\GestorRegistroResultadoRevisionManual.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\PPAI\\PPAI\\GestorRegistroResultadoRevisionManual.cs",
               "RelativeToolTip": "PPAI\\GestorRegistroResultadoRevisionManual.cs",
-              "ViewState": "AgIAABsBAAAAAAAAAAAiwC4BAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:07:04.308Z",
               "EditorCaption": ""
