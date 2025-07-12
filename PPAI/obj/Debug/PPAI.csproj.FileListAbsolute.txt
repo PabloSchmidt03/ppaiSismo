@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\PPAI\PPAI\bin\Debug\PPAI.exe.config
+C:\Users\pablo\source\repos\PPAI\PPAI\bin\Debug\PPAI.exe
+C:\Users\pablo\source\repos\PPAI\PPAI\bin\Debug\PPAI.pdb
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.PantallaGestionRegistroResultadoRevisionManual.resources
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.Properties.Resources.resources
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.exe
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.pdb
+C:\Users\pablo\source\repos\PPAI\PPAI\obj\Debug\PPAI.exe.config
